@@ -1,6 +1,6 @@
 ## Revert Risk models benchmarking:
-Repository that implements the logic for revert risk models performance testing and comparing
-It is mainly based on the model inference logic is implemented in 
+Repository that implements the logic for revert risk models performance testing and comparing.
+It is mainly based on the model inference logic that is implemented in 
 [![Knowledge Integrity repo](https://img.shields.io/badge/GitLab-repo-orange)](https://gitlab.wikimedia.org/repos/research/knowledge_integrity)
 
 ### Data used: 
