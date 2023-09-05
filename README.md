@@ -13,7 +13,7 @@ https://doi.org/10.1145/3580305.3599823), but you can use bigger sample to get m
 
 
 ### Models used: 
-
+Those models should be placed in the *pretrained_models directory*
 - Pretrained language-agnostic [model binary link](https://gitlab.wikimedia.org/repos/research/knowledge_integrity/-/tree/main/pretrained_models)
 - Pretrained multilingual [model binary link](https://drive.google.com/file/d/1_nIWa9g8HLn88RmMlS-8n-qqiW9DZa6u/view?usp=drive_link).
 
